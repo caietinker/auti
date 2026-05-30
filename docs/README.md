@@ -1,6 +1,6 @@
-# Diran - Personal Task Tracker
+# Auti - Personal Task Tracker
 
-**Diran** is a personal task-tracking SPA (Single Page Application) built with:
+**Auti** is a personal task-tracking SPA (Single Page Application) built with:
 
 - **SvelteKit 5** + **TypeScript**
 - **TailwindCSS v4**
@@ -9,7 +9,7 @@
 
 ## What It Does
 
-Diran helps you track tasks with time sessions and recurring schedules. It organizes tasks into **categories**, each with a goal (times per period or duration per period). Tasks can be:
+Auti helps you track tasks with time sessions and recurring schedules. It organizes tasks into **categories**, each with a goal (times per period or duration per period). Tasks can be:
 
 - **Undated** - one-off tasks that appear every day until completed
 - **Scheduled** - one-off tasks that appear on a specific date

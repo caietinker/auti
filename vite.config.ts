@@ -12,8 +12,8 @@ export default defineConfig({
 			injectRegister: 'script',
 			buildBase: '/',
 			manifest: {
-				name: 'Diran',
-				short_name: 'Diran',
+				name: 'Auti',
+				short_name: 'Auti',
 				description: 'Personal app',
 				theme_color: '#ef6306',
 				background_color: '#ffffff',
